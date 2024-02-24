@@ -1,0 +1,17 @@
+E:\Visual Studio\Sample Messagebox\Sample Messagebox\bin\Debug\net8.0-windows\Sample Messagebox.exe
+E:\Visual Studio\Sample Messagebox\Sample Messagebox\bin\Debug\net8.0-windows\Sample Messagebox.deps.json
+E:\Visual Studio\Sample Messagebox\Sample Messagebox\bin\Debug\net8.0-windows\Sample Messagebox.runtimeconfig.json
+E:\Visual Studio\Sample Messagebox\Sample Messagebox\bin\Debug\net8.0-windows\Sample Messagebox.dll
+E:\Visual Studio\Sample Messagebox\Sample Messagebox\bin\Debug\net8.0-windows\Sample Messagebox.pdb
+E:\Visual Studio\Sample Messagebox\Sample Messagebox\obj\Debug\net8.0-windows\Sample_Messagebox.frmmessagebox.resources
+E:\Visual Studio\Sample Messagebox\Sample Messagebox\obj\Debug\net8.0-windows\Sample Messagebox.csproj.GenerateResource.cache
+E:\Visual Studio\Sample Messagebox\Sample Messagebox\obj\Debug\net8.0-windows\Sample Messagebox.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio\Sample Messagebox\Sample Messagebox\obj\Debug\net8.0-windows\Sample Messagebox.AssemblyInfoInputs.cache
+E:\Visual Studio\Sample Messagebox\Sample Messagebox\obj\Debug\net8.0-windows\Sample Messagebox.AssemblyInfo.cs
+E:\Visual Studio\Sample Messagebox\Sample Messagebox\obj\Debug\net8.0-windows\Sample Messagebox.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Sample Messagebox\Sample Messagebox\obj\Debug\net8.0-windows\Sample Messagebox.dll
+E:\Visual Studio\Sample Messagebox\Sample Messagebox\obj\Debug\net8.0-windows\refint\Sample Messagebox.dll
+E:\Visual Studio\Sample Messagebox\Sample Messagebox\obj\Debug\net8.0-windows\Sample Messagebox.pdb
+E:\Visual Studio\Sample Messagebox\Sample Messagebox\obj\Debug\net8.0-windows\Sample Messagebox.genruntimeconfig.cache
+E:\Visual Studio\Sample Messagebox\Sample Messagebox\obj\Debug\net8.0-windows\ref\Sample Messagebox.dll
+E:\Visual Studio\Sample Messagebox\Sample Messagebox\obj\Debug\net8.0-windows\Sample_Messagebox.Form2.resources
